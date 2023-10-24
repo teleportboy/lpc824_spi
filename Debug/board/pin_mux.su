@@ -1,0 +1,4 @@
+C:\Users\user\Documents\MCUXpressoIDE_11.8.0_1165\uart\spi_polling_master\drivers/fsl_clock.h:343:20:CLOCK_EnableClock	16	static
+C:\Users\user\Documents\MCUXpressoIDE_11.8.0_1165\uart\spi_polling_master\drivers/fsl_clock.h:353:20:CLOCK_DisableClock	16	static
+../board/pin_mux.c:39:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:72:6:BOARD_InitPins	24	static

@@ -1,0 +1,3 @@
+C:\Users\user\Documents\MCUXpressoIDE_11.8.0_1165\uart\spi_polling_master\drivers/fsl_clock.h:343:20:CLOCK_EnableClock	16	static
+C:\Users\user\Documents\MCUXpressoIDE_11.8.0_1165\uart\spi_polling_master\drivers/fsl_clock.h:374:20:CLOCK_SetClkDivider	16	static
+../board/board.c:25:10:BOARD_InitDebugConsole	16	static

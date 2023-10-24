@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "C:\Users\user\Documents\MCUXpressoIDE_11.8.0_1165\uart\spi_polling_master\Debug\spi_polling_master.hex"
+qc
+
+qc
